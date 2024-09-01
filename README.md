@@ -1,5 +1,3 @@
-Markdown itself doesn’t support native animations like CSS or JavaScript, but you can use animated GIFs or ASCII art to create a sense of animation. These can be included in the README to add some visual flair. Below is an example of how you could add an animated GIF for visual engagement:
-
 ---
 
 # Ethix-MD-V2
@@ -107,7 +105,3 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 - I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
 
 ---
-
-In this version, an animated GIF is added at the top to grab attention. You can replace the GIF with any relevant animation that suits your project’s theme.
-
-If you have a specific GIF or animation in mind, it can be added to the README to give it a dynamic look!
