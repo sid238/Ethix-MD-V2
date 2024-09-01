@@ -2,7 +2,7 @@
 
 # Ethix-MD-V2
 
-![Bot Animation](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+<p align="center"> <span style="font-size: 24px; font-weight: bold;"> <span style="color: #00c4cc; animation: glow 1.5s ease-in-out infinite;"> The Future of Automation is Here </span> </span> </p>
 
 Welcome to **Ethix-MD-V2**, a powerful and flexible bot for your needs. This guide will help you set up and deploy the bot easily.
 
